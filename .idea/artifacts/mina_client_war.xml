@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mina-client:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="plc-adapter.war">
+      <element id="artifact" artifact-name="mina-client:war exploded" />
+    </root>
+  </artifact>
+</component>
